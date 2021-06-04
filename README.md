@@ -1,5 +1,5 @@
 README
-======
+=====
 
 This is the section to list all the to-do items and the description of this project.
 
@@ -18,3 +18,5 @@ To-do
 - [ ] Brainstorm ideas about sudoku solving
 - [ ] Figure out the different workflows
 - [ ] Try to implement the code for the imagined solutions/workflows
+- [x] Try to generate a proper 3x3 sudoku
+- [x] Generate all permutations out of the first 3 digits (1, 2, 3)
