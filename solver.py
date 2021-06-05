@@ -117,8 +117,8 @@ def check_subgrid(grid, row, col):
 def zero_coordinates(grid):
     """Find the coordinates of the zeros.
 
-    :grid: TODO
-    :returns: TODO
+    :grid: entire sudoku grid to be filled
+    :returns: the coordinates of the empty cells
 
     """
     coord = []
