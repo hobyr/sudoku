@@ -1,4 +1,8 @@
+"""Sudoku puzzle generator."""
+
+
 import random
+
 
 # generate 9x9 grid
 grid = []
