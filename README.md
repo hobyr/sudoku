@@ -16,3 +16,4 @@ To-do
 - [x] Try to implement the code for the imagined solutions/workflows
 - [x] Try to generate a proper 3x3 sudoku
 - [x] Generate all permutations out of the first 3 digits (1, 2, 3)
+- [ ] Create GUI to allow user input
